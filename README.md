@@ -12,3 +12,6 @@ Some notes for effective usage:
 - SQL UPDATE needs column headers, they will be used as for WHERE conditions, other columns are used in SET clause.
 
 This program is in active development. Planned addition of markdown tables and JSON output.
+
+Link to appstore:
+https://apps.apple.com/pl/app/cliptable/id1540973595?l=pl&mt=12
